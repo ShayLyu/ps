@@ -1,0 +1,19 @@
+baseURL = "https://ShayLyu.github.io/"
+defaultContentLanguage = "zh"
+locale = "zh-CN"
+title = "Shay's Blog"
+theme = "dream"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+lightTheme = "emerald"
+darkTheme = "forest"
+author = "Shay"
+headerTitle = "Shay's Blog"
+siteStartYear = 2026
+avatar = "img/avatar.jpg"
+motto = "等待并心怀希望吧！"
+
